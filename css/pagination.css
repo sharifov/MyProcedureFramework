@@ -1,0 +1,29 @@
+.page_move {
+    float: left;
+    margin: 0;
+	margin-bottom:12px;//addon
+    padding: 0;
+    width: 100%;
+}
+.page_move span {
+    display: table;
+    margin:0 auto;
+    padding: 0;
+/* 
+	position:relative;
+	top:22px; 
+*/
+}
+.page_move a {
+    color: #242424;
+    float: left;
+    font: 14px Arial;
+    margin: 0 0 0 5px;
+    outline: medium none;
+    padding: 0;
+    text-decoration:none ;
+}
+.page_move a:hover, .page_move a.activeLink {
+    text-decoration: underline;
+	color:#025187;
+}

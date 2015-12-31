@@ -1,0 +1,23 @@
+.jSearch{
+	margin-left:18px;
+}
+.jSearch font{
+	background:#6B7276;
+    color: #FFF;
+    float: left;
+    height: 30px;
+    margin: 0 0 10px;
+    padding: 7px 0 0;
+    text-align: center;
+    width: 100%;
+}
+.jSearch a{
+	color: #0FC5C1;
+    float: left;
+    margin: 0 0 0 5px;
+    outline: medium none;
+    text-decoration: none;
+}
+.jSearch a:hover{
+    text-decoration: underline;
+}
